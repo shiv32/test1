@@ -2,8 +2,5 @@ hi this test repo
 update for test1
 go to hell
 hi from git
-<<<<<<< HEAD
-hi from local
-=======
 hi2 from git
->>>>>>> origin/main
+
